@@ -1,0 +1,30 @@
+﻿  Source.c
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(10,37): warning C4081:  expected 'newline'; found ';'
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(104,20): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(104,26): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(111,34): warning C4244:  'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(111,52): warning C4244:  'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(117,50): warning C4244:  'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(120,50): warning C4244:  'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(123,64): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(125,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(126,55): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(135,22): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(136,22): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(400,17): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(400,23): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(400,29): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(422,42): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(423,48): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(431,42): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(432,48): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(503,26): warning C4244:  'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(503,44): warning C4244:  'function': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(510,23): warning C4244:  'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(510,37): warning C4244:  'function': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(687,27): warning C4113:  'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(691,29): warning C4113:  'void (__cdecl *)(unsigned char)' differs in parameter lists from 'void (__cdecl *)(unsigned char,int,int)'
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(696,19): warning C4113:  'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(697,19): warning C4244:  'function': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\cgTP1\Source.c(697,30): warning C4113:  'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+  cgTP1.vcxproj -> C:\Users\ofzbo\OneDrive\Documentos\CEFET\CG rated\cgTP1\Debug\cgTP1.exe
