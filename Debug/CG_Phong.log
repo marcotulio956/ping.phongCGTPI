@@ -1,0 +1,42 @@
+﻿  Source.c
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(123,19): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(123,25): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(126,27): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(126,33): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(129,27): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(129,42): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(132,19): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(132,34): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(161,20): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(161,26): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(167,34): warning C4244:  'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(167,52): warning C4244:  'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(172,52): warning C4244:  'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(174,52): warning C4244:  'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(177,64): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(179,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(180,55): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(189,40): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(190,40): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(431,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(442,51): warning C4244:  'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(582,52): warning C4244:  'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(582,76): warning C4244:  'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(585,52): warning C4244:  'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(585,76): warning C4244:  'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(588,50): warning C4244:  'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(588,66): warning C4244:  'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(710,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(710,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(710,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(761,26): warning C4244:  'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(761,44): warning C4244:  'function': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(767,23): warning C4244:  'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(767,37): warning C4244:  'function': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(880,75): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(976,27): warning C4113:  'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(980,29): warning C4113:  'void (__cdecl *)(unsigned char)' differs in parameter lists from 'void (__cdecl *)(unsigned char,int,int)'
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(985,19): warning C4113:  'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(986,19): warning C4244:  'function': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\ofzbo\Downloads\CG_Phong\CG_Phong\Source.c(986,30): warning C4113:  'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+  CG_Phong.vcxproj -> C:\Users\ofzbo\Downloads\CG_Phong\Debug\CG_Phong.exe
